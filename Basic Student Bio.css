@@ -1,0 +1,35 @@
+body {
+    background-color:#efeee7;
+    color: black;
+    margin: 0;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    color: #efeee7;
+    background-color: black;
+    margin: 0;
+    font-size: 28px;
+}
+a {
+    color: red;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+#filler,
+#contact-info,
+#bio-image {
+    float: left;
+    margin-right: 20px;
+}
+#filler {
+    width:60%;
+}
+#contact-info {
+    width: 30%
+}
